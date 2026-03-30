@@ -44,3 +44,11 @@ This project analyzes road accident data for 2021 and 2022 to generate insights 
 ## Dashboard Preview
 <img src="Dashboard Image.png" alt="Road Accident Dashboard">
 
+## Insights Generated
+- Identified highest casualty vehicle types
+- Observed seasonal trends in accidents
+- Found correlation between road conditions and accident severity
+- Compared year-over-year accident patterns
+
+## Project File
+Download the Excel dashboard from this repository to explore the analysis.
